@@ -10,8 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@blended/common": "1.0.0",
-    "@blended/graphql": "1.0.0",
     "typescript": "^3.5.3"
   },
   "devDependencies": {
