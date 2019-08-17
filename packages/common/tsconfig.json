@@ -1,18 +1,7 @@
 {
+  "extends": "../tsconfig.settings.json",
   "compilerOptions": {
-    "allowSyntheticDefaultImports": true,
-    "esModuleInterop": true,
-    "experimentalDecorators": true,
-    "strict": true,
     "outDir": "dist",
-    "emitDecoratorMetadata": true,
-    "moduleResolution": "node",
-    "sourceMap": true,
-    "target": "es2015",
-    "typeRoots": ["typings", "node_modules/@types"],
-    "skipLibCheck": true,
-    "baseUrl": ".",
-    "lib": ["es2017"],
-    "module": "commonjs"
+    "rootDir": "src"
   }
 }
