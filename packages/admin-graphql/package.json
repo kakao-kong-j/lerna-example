@@ -8,5 +8,11 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "2.8.1",
+    "class-transformer": "0.2.3",
+    "reflect-metadata": "0.1.13",
+    "type-graphql": "0.17.4"
+  }
 }
