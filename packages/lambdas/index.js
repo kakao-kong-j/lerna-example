@@ -1,3 +1,3 @@
-var alpha = require('alpha')
-var beta = require('beta')
+var alpha = require('@blended/common')
+var beta = require('@blended/graphql')
 console.log(alpha + " " + beta)
