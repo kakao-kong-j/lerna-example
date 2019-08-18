@@ -17,6 +17,8 @@ import {
 import path from "path";
 import { plainToClass } from "class-transformer";
 
+import { log } from "@blended/common";
+
 @ObjectType({ description: "Object representing cooking recipe" })
 export class Recipe {
   @Field()
@@ -119,6 +121,7 @@ async function bootstrap() {
 
   // Start the server
   const { url } = await server.listen(4000);
+  log();
   console.log(`Server is running, GraphQL Playground available at ${url}`);
 }
 
