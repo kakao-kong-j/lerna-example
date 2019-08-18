@@ -13,6 +13,7 @@
         "skipLibCheck": true,
         "baseUrl": ".",
         "lib": ["es2017"],
+        "declarationMap": false,
         "module": "commonjs"
     }
 }
