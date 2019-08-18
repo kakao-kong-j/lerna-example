@@ -1,5 +1,5 @@
 {
-  "name": "@blended/graphql",
+  "name": "@jinhokong/graphql",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@blended/common": "1.0.0",
+    "@jinhokong/common": "1.0.0",
     "apollo-server": "2.8.1",
     "class-transformer": "0.2.3",
     "graphql": "14.4.2",

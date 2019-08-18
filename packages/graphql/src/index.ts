@@ -15,9 +15,9 @@ import {
   Root
 } from "type-graphql";
 import path from "path";
-import { plainToClass } from "class-transformer";
+import { plainToClass, Expose } from "class-transformer";
 
-import { log } from "@blended/common";
+import { log } from "@jinhokong/common";
 
 @ObjectType({ description: "Object representing cooking recipe" })
 export class Recipe {

@@ -2,7 +2,7 @@
   "devDependencies": {
     "lerna": "^3.16.4"
   },
-  "name": "blended",
+  "name": "jinhokong",
   "description": "",
   "version": "1.0.0",
   "main": "index.js",
