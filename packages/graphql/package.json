@@ -16,7 +16,7 @@
     "graphql": "14.4.2",
     "reflect-metadata": "0.1.13",
     "type-graphql": "0.17.4",
-    "typescript": "^3.5.3"
+    "typescript": "3.5.3"
   },
   "devDependencies": {
     "webpack": "4.39.2"

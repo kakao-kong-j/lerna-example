@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@jinhokong/common": "1.0.0",
-    "typescript": "^3.5.3"
+    "typescript": "3.5.3"
   },
   "devDependencies": {
     "webpack": "4.39.2"

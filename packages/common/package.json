@@ -13,6 +13,6 @@
     "webpack": "4.39.2"
   },
   "dependencies": {
-    "typescript": "^3.5.3"
+    "typescript": "3.5.3"
   }
 }
