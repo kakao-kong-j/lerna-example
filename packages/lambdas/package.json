@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "echo build",
     "start": "node ./index.js"
   },
   "keywords": [],
@@ -14,6 +15,7 @@
     "typescript": "3.5.3"
   },
   "devDependencies": {
-    "webpack": "4.39.2"
+    "webpack": "4.39.2",
+    "webpack-cli": "^3.3.7"
   }
 }
