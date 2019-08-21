@@ -1,6 +1,6 @@
-name: Node CI
+name: Lint and Build
 
-on: [push, branch master]
+on: [push]
 
 jobs:
   build:
